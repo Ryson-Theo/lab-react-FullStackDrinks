@@ -1,0 +1,52 @@
+{
+  "beers": [
+    {
+      "_id": "5d79207b86f38c35b0028b7a",
+      "name": "Buzz",
+      "tagline": "A Real Bitter Experience.",
+      "first_brewed": "09/2007",
+      "description": "A light, crisp and bitter IPA brewed with German hops.",
+      "attenuation_level": 75,
+      "brewers_tips": "Be careful not to over extract the tea leaves.",
+      "contributed_by": "Sam Mason",
+      "image_url": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=200&q=80",
+      "id": "aIyePkoVP_4"
+    },
+    {
+      "_id": "5d79207b86f38c35b0028b7b",
+      "name": "Trashy Blonde",
+      "tagline": "You Know You Shouldn't",
+      "first_brewed": "04/2008",
+      "description": "A titillating, neurotic, malt forward pale ale.",
+      "attenuation_level": 76,
+      "brewers_tips": "Be careful not to over extract the tea leaves.",
+      "contributed_by": "Trashy Blonde",
+      "image_url": "https://images.unsplash.com/photo-1608270586620-248524c67de9?auto=format&fit=crop&w=200&q=80",
+      "id": "6xgtclj-0vU"
+    },
+    {
+      "_id": "5d79207b86f38c35b0028b7c",
+      "name": "Pilsen Lager",
+      "tagline": "Unleash the Yeast Series.",
+      "first_brewed": "09/2013",
+      "description": "Our Pilsen Lager is a classic crisp craft lager.",
+      "attenuation_level": 72,
+      "brewers_tips": "Keep fermentation temperatures cold.",
+      "contributed_by": "Pilsen Lager",
+      "image_url": "https://images.unsplash.com/photo-1567696911980-2eed69a46042?auto=format&fit=crop&w=200&q=80",
+      "id": "77qCU68gzuw"
+    },
+    {
+      "name": "Cyber Stout",
+      "tagline": "A dark roasted malt with futuristic notes.",
+      "description": "Brewed with cold-brew coffee extracts and toasted barley. Delivers a rich, creamy head with chocolate undercurrents and a clean finish.",
+      "first_brewed": "05/2024",
+      "brewers_tips": "Serve slightly chilled around 12°C. Pair with dark cocoa or aged cheese.",
+      "attenuation_level": 78,
+      "contributed_by": "Dev Team",
+      "image_url": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=200&q=80",
+      "id": "NVWPilbuPHc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
